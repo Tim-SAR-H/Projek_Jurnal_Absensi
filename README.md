@@ -59,35 +59,6 @@ Aplikasi Flutter untuk mencatat absensi mahasiswa (tema **6. Jurnal Absensi/Kela
 | *(tempel gambar)* | *(tempel gambar)* | *(tempel gambar)* | *(tempel gambar)* |
 
 > Simpan gambar di folder `screenshots/` lalu tampilkan dengan `![Login](screenshots/login.png)`.
-
----
-
-## 📁 Struktur Folder
-
-```text
-lib/
-├── firebase_options.dart         # Konfigurasi Firebase (wajib di-commit)
-├── main.dart                     # Init Firebase, MultiProvider, auth gating
-├── models/
-│   ├── journal_model.dart        # {nim, status, note, createdAt}
-│   └── user_model.dart           # Data Reqres {id, email, nama, avatar}
-├── providers/
-│   ├── auth_provider.dart        # State autentikasi
-│   ├── data_provider.dart        # State REST API Dio + ViewState
-│   ├── journal_provider.dart     # CRUD Firestore, stream, ViewState
-│   └── view_state.dart           # enum ViewState
-├── screens/
-│   ├── home_screen.dart
-│   ├── login_screen.dart
-│   ├── user_detail_screen.dart
-│   └── user_list_screen.dart
-├── services/
-│   ├── api_service.dart          # Dio + penanganan error
-│   └── firestore_service.dart    # Operasi Firestore
-└── theme/
-    └── app_theme.dart            # Tema global & warna badge status
-```
-
 ---
 
 ## 🛠️ Cara Menjalankan Aplikasi
