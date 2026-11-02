@@ -17,15 +17,6 @@ Aplikasi Flutter untuk mencatat absensi mahasiswa (tema **6. Jurnal Absensi/Kela
 | 3 | **Rezaldi Pratama** | **2411500005** | **screens folder** |
 | 4 | **Anugrah Akbar** | **2411500039** | **service folder + theme folder** |
 
-Rincian berkas per anggota:
-
-| Anggota | Berkas yang dikerjakan |
-|---|---|
-| Sandi Kurniawan | `main.dart`, `models/journal_model.dart`, `models/user_model.dart` |
-| Hafizh Risqullah Iskandarsyah | `providers/auth_provider.dart`, `providers/journal_provider.dart`, `providers/data_provider.dart`, `providers/view_state.dart` |
-| Rezaldi Pratama | `screens/login_screen.dart`, `screens/home_screen.dart`, `screens/user_list_screen.dart`, `screens/user_detail_screen.dart` |
-| Anugrah Akbar | `services/firestore_service.dart`, `services/api_service.dart`, `theme/app_theme.dart` |
-
 ---
 
 ## 🚀 Fitur Aplikasi
