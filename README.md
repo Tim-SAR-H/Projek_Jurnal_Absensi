@@ -88,5 +88,5 @@ Pastikan **Email/Password** sudah diaktifkan di Firebase Console → Authenticat
 
 ## 🔗 Video Presentasi
 
-- **Link Google Drive**: `https://drive.google.com/drive/folders/17JrUx3zqubZNeFm8PP4xlk9Lfozna0XS?usp=sharing`
+- **Link Google Drive**: <link `https://drive.google.com/drive/folders/17JrUx3zqubZNeFm8PP4xlk9Lfozna0XS?usp=sharing` />
 
