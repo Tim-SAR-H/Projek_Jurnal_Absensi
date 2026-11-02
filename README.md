@@ -56,11 +56,10 @@ Aplikasi Flutter untuk mencatat absensi mahasiswa (tema **6. Jurnal Absensi/Kela
 
 | Login | Home CRUD | List API | Detail API |
 |---|---|---|---|
-| <img width="2880" height="1800" alt="Login" src="https://github.com/user-attachments/assets/2e0ffc8d-2a14-4cf8-8500-65e311e2ad44" /> | *(tempel gambar)* | *(tempel gambar)* | *(tempel gambar)* |
+| <img width="2880" height="1800" alt="Login" src="https://github.com/user-attachments/assets/2e0ffc8d-2a14-4cf8-8500-65e311e2ad44" /> | <img width="2880" height="1800" alt="Buat Akun" src="https://github.com/user-attachments/assets/06d5ebfe-dc22-42a7-a54f-d759503cf27f" /> | <img width="2880" height="1800" alt="Home" src="https://github.com/user-attachments/assets/b675a144-ca56-4581-893b-986332241ed0" /> | <img width="2880" height="1800" alt="Daftar Mahasiswa" src="https://github.com/user-attachments/assets/a972d168-b7ec-4709-9b77-6f76291f744f" /> |
 
 > Simpan gambar di folder `screenshots/` lalu tampilkan dengan `![Login](screenshots/login.png)`.
 ---
-
 
 ## 🛠️ Cara Menjalankan Aplikasi
 
