@@ -81,21 +81,8 @@ flutter run
 > `lib/firebase_options.dart` sudah disertakan di repositori dan **tidak masuk `.gitignore`**, sehingga aplikasi bisa langsung dijalankan. Langkah `flutterfire configure` hanya diperlukan bila ingin memakai project Firebase lain.
 
 Pastikan **Email/Password** sudah diaktifkan di Firebase Console → Authentication → Sign-in method, dan Firestore sudah dibuat.
-
----
-
-## 💡 Future vs Stream (P01)
-
-| Pembeda | `Future` | `Stream` |
-|---|---|---|
-| Nilai | **Satu** nilai (atau error), lalu selesai | **Banyak** nilai berkelanjutan sampai di-cancel |
-| Di proyek ini | `ApiService.fetchUsers()` (Dio GET), `FirestoreService.getJournalsOnce()` (`get()`) | `authStateChanges()`, `FirestoreService.streamJournals()` (`snapshots()`) |
-| Kapan dipakai | Ambil data API sekali / tombol refresh | Jurnal absensi yang berubah secara realtime |
-
 ---
 
 ## 🔗 Video Presentasi
 
-- **Link Google Drive**: `[MASUKKAN_LINK_GOOGLE_DRIVE_DI_SINI]`
-
-*(Atur akses ke "Siapa saja yang memiliki link dapat melihat".)*
+- **Link Google Drive**: `[LINK]`
